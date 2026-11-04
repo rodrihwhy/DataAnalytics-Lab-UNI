@@ -1,0 +1,50 @@
+﻿etiqueta,description
+CODMES,Mes de observación en formato AAAAMM.
+TARGET,"Cliente supera 60 días de atraso en los próximos 12 meses: 1 = sí, 0 = no."
+MEDIDA1_MORA_INTERNA_U6M,"Mora en Compartamos, medida 1, últimos 6 meses."
+MEDIDA1_MORA_INTERNA_U12M,"Mora en Compartamos, medida 1, últimos 12 meses."
+MEDIDA1_MORA_INTERNA_U1M,"Mora en Compartamos, medida 1, último mes."
+MEDIDA2_MORA_INTERNA_U12M,"Mora en Compartamos, medida 2, últimos 12 meses."
+MEDIDA2_MORA_INTERNA_U6M,"Mora en Compartamos, medida 2, últimos 6 meses."
+MEDIDA3_MORA_INTERNA_U12M,"Mora en Compartamos, medida 3, últimos 12 meses."
+MEDIDA1_APALANCAMIENTO_INTERNO_U6M,"Endeudamiento en Compartamos, medida 1, últimos 6 meses."
+MEDIDA2_APALANCAMIENTO_INTERNO_U6M,"Endeudamiento en Compartamos, medida 2, últimos 6 meses."
+SOCIODEMOGRAFICO_1,Característica sociodemográfica anonimizada 1.
+MEDIDA2_APALANCAMIENTO_INTERNO_U12M,"Endeudamiento en Compartamos, medida 2, últimos 12 meses."
+SOCIODEMOGRAFICO_4,Característica sociodemográfica anonimizada 4.
+MEDIDA3_APALANCAMIENTO_INTERNO_U1M,"Endeudamiento en Compartamos, medida 3, último mes."
+SOCIODEMOGRAFICO_3,Característica sociodemográfica anonimizada 3.
+SOCIODEMOGRAFICO_2,Característica sociodemográfica anonimizada 2.
+MEDIDA1_AHORRO,Comportamiento de ahorro anonimizado.
+MEDIDA1_MORA_SSFF_U36M,"Mora en el sistema financiero, medida 1, últimos 36 meses."
+MEDIDA1_MORA_SSFF_U12M,"Mora en el sistema financiero, medida 1, últimos 12 meses."
+MEDIDA2_MORA_SSFF_U36M,"Mora en el sistema financiero, medida 2, últimos 36 meses."
+MEDIDA2_MORA_SSFF_U6M,"Mora en el sistema financiero, medida 2, últimos 6 meses."
+MEDIDA1_APALANCAMIENTO_SSFF_U36M,"Endeudamiento en el sistema financiero, medida 1, últimos 36 meses."
+MEDIDA1_DESAPALANCAMIENTO_SSFF_U12M,"Reducción de deuda en el sistema financiero, últimos 12 meses."
+MEDIDA1_APALANCAMIENTO_SSFF_U6M,"Endeudamiento en el sistema financiero, medida 1, últimos 6 meses."
+MEDIDA2_APALANCAMIENTO_SSFF_U36M,"Endeudamiento en el sistema financiero, medida 2, últimos 36 meses."
+MEDIDA3_APALANCAMIENTO_SSFF_U12M,"Endeudamiento en el sistema financiero, medida 3, últimos 12 meses."
+MEDIDA3_APALANCAMIENTO_SSFF_U6M,"Endeudamiento en el sistema financiero, medida 3, últimos 6 meses."
+MEDIDA2_APALANCAMIENTO_SSFF_U12M,"Endeudamiento en el sistema financiero, medida 2, últimos 12 meses."
+MEDIDA1_PRODUCTOS_SSFF_U1M,"Productos en el sistema financiero, último mes."
+DEUDA_PROMEDIO_SSFF,Deuda promedio en el sistema financiero.
+MEDIDA1_ENTIDADES_SSFF_U12M,"Entidades financieras relacionadas, últimos 12 meses."
+MEDIDA4_DEUDA_SSFF_U1M,"Deuda en el sistema financiero, medida 4, último mes."
+MEDIDA3_MORA_SSFF_U36M,"Mora en el sistema financiero, medida 3, últimos 36 meses."
+MEDIDA1_CALIFICACION_SSFF_U60M,"Calificación crediticia, medida 1, últimos 60 meses."
+MEDIDA1_DESAPALANCAMIENTO_INTERNO_U6M,"Reducción de deuda en Compartamos, últimos 6 meses."
+MEDIDA2_CALIFICACION_SSFF_U60M,"Calificación crediticia, medida 2, últimos 60 meses."
+MEDIDA1_DESAPALANCAMIENTO_INTERNO_U12M,"Reducción de deuda en Compartamos, últimos 12 meses."
+MEDIDA2_APALANCAMIENTO_SSFF_U60M,"Endeudamiento en el sistema financiero, medida 2, últimos 60 meses."
+MEDIDA1_ANTIGUEDAD_SSFF,Antigüedad en el sistema financiero.
+MEDIDA2_PRODUCTOS_SSFF_U3M,"Productos en el sistema financiero, últimos 3 meses."
+MEDIDA1_LINEA_TARJETACREDITO,Línea de tarjeta de crédito anonimizada.
+PREDICCION_MODELO_ANTERIOR,Probabilidad estimada por el modelo anterior.
+PROXY_TARGET_6M,Cliente supera 60 días de atraso en los próximos 6 meses.
+MEDIDA1_TRX_CASHIN_U3M,Monto de ingresos o abonos recibidos en los últimos 3 meses.
+MEDIDA2_TRX_TRANSFER_U1M,Monto de transferencias realizadas en el último mes.
+MEDIDA3_TRX_QR_U1M,Flag de uso de pagos mediante QR en el último mes.
+MEDIDA4_TRX_DEBITO_U1M,Número de transacciones con tarjeta de débito en el último mes.
+MEDIDA5_TRX_ECOM_U1M,Monto de compras por comercio electrónico en el último mes.
+MEDIDA6_TRX_APP_U1M,Flag de uso de la aplicación en el último mes.
